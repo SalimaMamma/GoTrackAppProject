@@ -1,16 +1,16 @@
 # gotrackapp
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Collaborative geolocation Application realized as part of Second Year Projet using **Flutter** **Firebase** and **Google APIS** 
+**Team Work**
+- HAMLAOUI Yasmine ( Project Lead )
+- MAMMA Salima
+- OUANES Sofia
+- KARABADJI Lina
+- BOUDJEMIA Lilya
+- LAOUADI Abir
+- During this project, we learned to work in team and upgraded our coding and developpement skills. We have developped the features below :
+- User authentification
+- Real Time Geolocation
+- Real Time Messaging 
+- Real Time authentification
+- User and group informations management
