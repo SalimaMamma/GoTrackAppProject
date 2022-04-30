@@ -1,6 +1,7 @@
 # gotrackapp
 
 Collaborative geolocation Application realized as part of Second Year Projet using **Flutter** **Firebase** and **Google APIS** 
+
 **Team Work**
 - HAMLAOUI Yasmine ( Project Lead )
 - MAMMA Salima
