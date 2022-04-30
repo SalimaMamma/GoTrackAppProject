@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892594481684",
+    "firebase_url": "https://final-8ae5d.firebaseio.com",
+    "project_id": "final-8ae5d",
+    "storage_bucket": "final-8ae5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892594481684:android:3be4627cb6f27853011501",
+        "android_client_info": {
+          "package_name": "com.example.gotrackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892594481684-44ak18bvjcd5d2689hrlli4qju6ac6l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdRp5ymoxc0HZw3ZwIOvV64kArggqnnAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892594481684-44ak18bvjcd5d2689hrlli4qju6ac6l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
