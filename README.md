@@ -9,9 +9,10 @@ Collaborative geolocation Application realized as part of Second Year Projet usi
 - BOUDJEMIA Lilya
 - LAOUADI Abir
 
-During this project, we learned to work in team and upgraded our coding and developpement skills. We have developped the features below :
-- User authentification
-- Real Time Geolocation
-- Real Time Messaging 
-- Real Time authentification
-- User and group informations management
+We have developped the features below :
+- User authentification using Firebase
+- Real Time Geolocation using Firebase and Google Maps API
+- Real Time Messaging using Firebase
+- Real Time authentification using Firebase Cloud Messaging with NodeJs
+- User and group informations management with Firebase
+
